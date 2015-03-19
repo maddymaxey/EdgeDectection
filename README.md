@@ -11,5 +11,4 @@ This workflow is specifically for the Ember SLA DLP 3D printer.
 
 This sketch is useful for creating textured surfaces on resin prints. Adding texture through edge detetection makes your file print like the swatch on the left below. The swatch on the right is a standard print.
 
-
-<img src =" http://cdn.instructables.com/FWY/CFEP/I6NI4Y89/FWYCFEPI6NI4Y89.MEDIUM.jpg"></div>
+![sample swatches](http://cdn.instructables.com/FWY/CFEP/I6NI4Y89/FWYCFEPI6NI4Y89.MEDIUM.jpg)
